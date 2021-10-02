@@ -1,0 +1,18 @@
+void main(){
+  
+  number1().fucntion();
+  
+}
+
+class number1 
+{
+  void fucntion (){
+    String name = "Shaheer Siddiqui";
+    String fatherName = "Rehan Shakir";
+    int age = 17;
+    print (name);
+    print (fatherName);
+    print (age);
+    
+  }
+}
